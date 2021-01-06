@@ -1,0 +1,6 @@
+{
+  "name": "Instagram Token Exchange",
+  "description": "Node app to exchange a short-lived Instagram access token with a long-lived token.",
+  "repository": "https://github.com/christopherstyles/instagram-token-exchange",
+  "image": "heroku/nodejs"
+}
