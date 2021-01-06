@@ -16,4 +16,4 @@ The client ID and secret can be found in the facebook Instagram app’s settings
 
 ## :rocket: Start the server
 
-Run `yarn install` then `yarn start` The server will be available to receive token requests at `/token`.
+Run `yarn install` then `yarn start`. The server will be available to receive token requests at `/token`.
